@@ -1,3 +1,3 @@
 # proyecto1-github
-## Descricion
+## Descripcion
 Este es un repositorio creado para el curso de Dalto
