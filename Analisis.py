@@ -19,7 +19,7 @@ ven_lamborghini = pd.read_csv("Proyecto_Final1/Lamborghini_unidades_vendidas.csv
 #Cual de las dos marcas fabrica mas autos?
 
 mas_fabricado_f = fab_ferrari['Unidades Fabricadas (Aprox.)'].sum()
-print(f'Ferrari desde su creación hasta hoy, ha fabricado:  {mas_fabricado_f} autos')
+print(f'Ferrari desde su creación hasta hoy, ha fabricados:  {mas_fabricado_f} autos')
 
 print('--------------------------------------------------------------------------')
 mas_fabricado_l = fab_lamborghini['Unidades Fabricadas (Aprox.)'].sum()
