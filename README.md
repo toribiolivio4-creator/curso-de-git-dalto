@@ -4,3 +4,6 @@ Este es un repositorio creado para el curso de Dalto
 
 nombre = 'Livio'
 print(nombre)
+
+apellido = 'Dacia'
+print(nombre)
